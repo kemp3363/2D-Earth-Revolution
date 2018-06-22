@@ -9,7 +9,7 @@
   .flatearth{
     width: 480px;
     height: 480px;
-    margin: 76px auto;
+    margin: 0 auto;
     background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nasa_land_ocean_ice_8192.jpg/1280px-Nasa_land_ocean_ice_8192.jpg");
     border-radius: 50%;
     animation: pic-rotate 60s infinite;
@@ -27,5 +27,5 @@
       background-position: -1700px;
     }
   }
-  
+
 }
